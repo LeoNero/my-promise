@@ -1,0 +1,14 @@
+{
+  "name": "promisesaplus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "promises-aplus-tests": "*"
+  },
+  "scripts": {
+    "test": "promises-aplus-tests ./index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
